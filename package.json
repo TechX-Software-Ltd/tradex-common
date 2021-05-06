@@ -23,7 +23,7 @@
     "accept-language": "^3.0.18",
     "aws-sdk": "^2.302.0",
     "es6-promise": "^4.2.5",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.7.7",
     "i18next": "^11.9.0",
     "i18next-fetch-backend": "^0.1.0",
     "isomorphic-fetch": "^2.2.1",
